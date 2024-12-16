@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sheraz Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **Data anlaysis and Data Science**
+<h3 align="center">A passionate software developer from India</h3>
+<img align='right' alt='coding' width=400 src='https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png'>
+- 🌱 I am skilled in Web development.
+- 🌱 I’m currently learning and exploring **Data anlaysis and Data Science**
 
 - 📫 How to reach me **shaazkhan2003@gmail.com**
 
